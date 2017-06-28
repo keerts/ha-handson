@@ -24,7 +24,7 @@ Are there more?
 
 ### 4. Write you own module
 
-Connect with ... and write your own home assistant module. More documentation  
+Connect with ... and write your own home assistant module. Documentation is available at https://home-assistant.io/developers/
 
 ### 5. AWS integration
 
