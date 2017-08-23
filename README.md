@@ -65,7 +65,8 @@ GIRA 2104: This is a co2, temperature, humidity sensor.
 
 Check the knx folder for more documentation on these modules.
 
-Here is snippet of configuration to connect to the example knx setup. 
+Here is snippet of configuration to connect to the example knx setup.
+
 ```
 sensor knx:                 
   - platform: knx           
